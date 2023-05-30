@@ -7,5 +7,5 @@ go run main.go
 
 ## Run subscriber
 ```
-go run client/main.go --clientNo {id}
+go run subscriber/main.go --clientNo {id}
 ```
